@@ -5492,7 +5492,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   }
   .navbar-right {
     background-color: transparent;
-    float: right!important;
+    /*float: right!important;*/
     margin-right: -15px
   }
   .navbar-right~.navbar-right {
@@ -5511,25 +5511,26 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover {
-  color: #5e5e5e;
+  color: #F5F5F7;
+  text-decoration: underline
   background-color: transparent
 }
 
 .navbar-default .navbar-text {
-  color: #777
+  color: #FFFFFF
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #777
+  color: #FFFFFF
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-   color: #bdeaf9;
+   text-decoration: underline
    background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a {
-  color: #6ec54d;
+  color: #222222;
   background-color: transparent;
 }
 
