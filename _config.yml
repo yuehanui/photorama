@@ -37,8 +37,8 @@ nav:
   - ABOUT: "https://yuehanui.github.io/photorama/about/"
 
 nav_name:
-  GALLERY: "作品集"
-  ABOUT: "关于我"
+  - "作品集"
+  - "关于我"
 
 # All translation keys
 translations:
