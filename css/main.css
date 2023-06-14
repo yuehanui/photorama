@@ -7,7 +7,7 @@ body {
 p {
   line-height: 1.5;
   margin: 30px 0;
-}
+  css/main.css}
 p a {
   text-decoration: none;
 }
@@ -21,7 +21,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #760824;
+  color: #a29bfa;
   transition: color .4s;
   text-decorarion: none;
 }
