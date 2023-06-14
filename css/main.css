@@ -21,13 +21,13 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #a29bfa;
+  color: #000000;
   transition: color .4s;
   text-decorarion: none;
 }
 a:hover,
 a:focus {
-  color: #a29bfa;
+  color: #000000;
      transition: color .3s;
     outline: none;
     text-shadow:none;
