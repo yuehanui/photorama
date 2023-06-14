@@ -36,6 +36,10 @@ nav:
   - GALLERY: "https://yuehanui.github.io/photorama/gallery/"
   - ABOUT: "https://yuehanui.github.io/photorama/about/"
 
+nav_name:
+  GALLERY: "作品集"
+  ABOUT: "关于我"
+
 # All translation keys
 translations:
  # 404.html
