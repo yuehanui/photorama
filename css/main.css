@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #000000;
-  background-color: #FFFFFF;
+  background-color: #F5F5F7;
 }
 p {
   line-height: 1.5;
@@ -110,7 +110,7 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #ffffff;
+    color: #F5F5F7;
   }
   .navbar-custom.is-fixed .navbar-brand:hover {
     color: #bdeaf9;
