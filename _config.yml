@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Pillow
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -34,7 +34,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://yuehanui.github.io/photorama/gallery/"
-  - JOURNAL: "https://yuehanui.github.io/photorama/journal/"
   - ABOUT: "https://yuehanui.github.io/photorama/about/"
 
 # All translation keys
